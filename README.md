@@ -1,5 +1,8 @@
 # Enterprise-Ready Vector Database Exploration and Benchmarking for Knowledge Retrieval Systems
 
+![vector-db-hosting-2](https://github.com/user-attachments/assets/2c3b7cab-7b01-4a9c-9c45-ea51d14b5697)
+
+
 This repository provides an in-depth analysis and benchmarking of leading vector databases designed to power high-performance knowledge retrieval systems. These vector databases—FAISS, Pinecone, Qdrant, SQLite with VSS, and ChromaDB—are integral to applications involving similarity search, recommendation engines, and retrieval-augmented generation (RAG) pipelines.
 
 ## 🔍 Project Overview
